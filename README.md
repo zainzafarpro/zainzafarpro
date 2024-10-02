@@ -1,6 +1,6 @@
 ## 🧑‍💻 About me
 
-- I'm a Senior Frontend Developer with over 9 years of experience in HTML-5, CSS3, SCSS, JavaScript Bootstrap, and niche technologies like React.js, Redux & Tailwind CSS. 💁‍♂️
+- I'm a Senior Frontend Developer with over 7+ years of experience in HTML-5, CSS3, SCSS, JavaScript Bootstrap, and niche technologies like React.js, Redux & Tailwind CSS. 💁‍♂️
 - I am proficient in front-end development, and responsive web design with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. 🙋‍♂️
 - I prefer to give my 100% on designated tasks which helps me deliver better with specific deadlines. 😊
 
